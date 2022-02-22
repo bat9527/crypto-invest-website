@@ -15,3 +15,7 @@
 ## 新闻
 
 ## web3.0项目
+- 【推荐】Mirror：https://mirror.xyz/<br>
+  链上原生内容的最佳创作工具，已发币RSS
+- 【推荐】RSS3：https://rss3.io/
+  Web3.0的基础设置，可以订阅不同网站创作者的内容
