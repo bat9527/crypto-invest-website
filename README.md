@@ -9,7 +9,7 @@
 - 非小号：https://www.feixiaohao.co/
 
 ## 中心化交易所
-- 币安：https://www.binance.com/zh-CN/activity/referral-entry?fromActivityPage=true&ref=LIMIT_VLTW202T
+- 币安binance：https://www.binance.com/zh-CN/activity/referral-entry?fromActivityPage=true&ref=LIMIT_VLTW202T
 - 欧易okex：https://www.ouyicn.photo/join/8354479
 
 ## 国内新闻
