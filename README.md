@@ -3,6 +3,7 @@
 如果感兴趣的同学，可以点个Star进行关注。
 
 ## 加密货币行情
+用于查询加密货币价格、市值、排名、新币上架等信息
 - CoinMarketCap：https://coinmarketcap.com
 - CoinGecko：https://www.coingecko.com/
 - 非小号：https://www.feixiaohao.co/
