@@ -10,7 +10,6 @@
 ## 交易所
 - 币安：https://www.binance.com/zh-CN/activity/referral-entry?fromActivityPage=true&ref=LIMIT_VLTW202T
 - 欧易okex：https://www.ouyicn.photo/join/8354479
-- 火币huobi：
 
 ## 新闻
 
