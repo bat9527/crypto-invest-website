@@ -18,6 +18,13 @@
 - 星球日报：https://www.odaily.news/
 - 吴说区块链：https://www.wu-talk.com/
 
+## 常用工具
+- 【常用】Dextools：去中心化交易所行情查询工具 https://www.dextools.io/app/
+- 【常用】Etherscan：最老牌的老牌区块链浏览器 https://cn.etherscan.com/
+- 【常用】Bscscan：币安生态链（bsc）浏览器 https://bscscan.com/
+- TokenView：国产区块链浏览器 https://eth.tokenview.com/cn/
+- Remix：在线以太坊IDE https://remix.ethereum.org/
+
 ## Web3.0项目
-- 【推荐】Mirror：链上原生内容的最佳创作工具，有很强的投资机构做背书。https://mirror.xyz/
-- 【推荐】RSS3：Web3.0的基础设施，可以订阅不同网站创作者的内容。https://rss3.io/
+- 【推荐】Mirror：链上原生内容的最佳创作工具，有很强的投资机构做背书 https://mirror.xyz/
+- 【推荐】RSS3：Web3.0的基础设施，可以订阅不同网站创作者的内容 https://rss3.io/
