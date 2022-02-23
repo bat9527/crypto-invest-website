@@ -24,7 +24,7 @@
 - 万物互联：https://chainoe.com
 
 ## 国外资讯网站
-- CoinDesk：https://www.coindesk.com/
+- CoinDesk：https://www.coindesk.com/ 
 - a16z：https://a16z.com/
 
 ## 常用工具
