@@ -12,8 +12,10 @@
 - 币安binance：全球最大的中心化交易所 https://www.binance.com/
 - Uniswap：全球最大的去中心化交易所 https://uniswap.org/
 - OpenSea：全球最大NFT交易平台 https://opensea.io/
+- 火币huobi：中国Top3交易所 https://www.huobi.bs/zh-cn/
 - 欧易okex：中国Top3交易所 https://www.okx.com/
-- 抹茶MEXC：很多潜力币的交易所 https://www.mexc.com/
+- 抹茶MEXC：很多潜力币的二线交易所 https://www.mexc.com/
+- 芝麻开门Gate：二线交易所 https://gate.io/
 - Pancakke：币安生态链上的最大去中心化交易所 https://pancakeswap.finance/
 
 ## 国内新闻网站
@@ -24,7 +26,7 @@
 - 万物互联：https://chainoe.com
 
 ## 国外资讯网站
-- CoinDesk：https://www.coindesk.com/ 
+- CoinDesk：https://www.coindesk.com/
 - a16z：https://a16z.com/
 
 ## 常用工具
